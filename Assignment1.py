@@ -9,7 +9,6 @@ def my_func(x1=None, x2=None, x3=None ):
     return num
 
 
-#print(my_func(1.0,2.0,-3.0))
 
 #Task B
 def convert(hours=0,minutes=0):
@@ -18,4 +17,4 @@ def convert(hours=0,minutes=0):
     num= hours*3600+minutes*60
     return num
 
-#print(convert(-1,3))
+
